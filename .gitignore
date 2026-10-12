@@ -1,0 +1,8 @@
+manuscripts/*
+!manuscripts/.gitkeep
+
+manuscript_responses/*
+!manuscript_responses/.gitkeep
+
+manuscript_reviews/*
+!manuscript_reviews/.gitkeep
